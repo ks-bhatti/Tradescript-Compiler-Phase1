@@ -1,2 +1,9 @@
-# Tradescript-Compiler-Phase1
-A unique domain-specific language (DSL) project for financial trading automation. Includes all Phase 1 Compiler Construction deliverables: regex table, FA diagrams, keyword analysis, well-commented Flex code, demo input, and sample token output.
+# TradeScript Compiler – Phase 1 (Lexical Analysis)
+
+This repository contains:
+- Source code for the TradeScript scanner (Flex/Lex)
+- Regex table and finite automata diagrams for analysis
+- Full explanation of trading-domain keywords and design
+- Sample test programs and expected token output
+
+Designed as a complete, unique solution for Compiler Construction assignments focused on domain-specific languages (DSLs).
